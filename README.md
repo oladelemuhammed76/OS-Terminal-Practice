@@ -17,3 +17,15 @@
 "chmod" (short for change mode) is a Unix/Linux command used to change the permissions of files or directories.
 
 "df" command in Unix/Linux stands for disk free. It is used to display the amount of available and used disk space on the mounted file systems.
+
+**Kernel: The brain of the operating system, managing hardware and system resources.**
+
+**Shell: The translator between you and the kernel — it takes your commands and gets the job done via the kernel.**
+
+**Bash: Simple, stable, widely used — great for scripting.**
+
+**Zsh: More powerful and user-friendly — ideal for interactive use with features like better autocompletion and themes.**
+
+**GUI: Visual and easy to use — great for everyday users.**
+
+**CLI: Text-based and powerful — preferred by advanced users and sysadmins for control and automation.**
